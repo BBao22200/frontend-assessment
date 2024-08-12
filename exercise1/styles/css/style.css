@@ -26,7 +26,7 @@ p {
 .card-container {
   padding: 5rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   gap: 0.25rem; }
   .card-container .card-item {
     display: flex;
