@@ -1,40 +1,74 @@
-Introduction
----
-Thanks for taking the time to complete this frontend technical assessment. We will be focusing on software quality (scalability, readability, maintainability, etc.) and your eye for detail. You may include any libraries, but Vue.js is preferred and jQuery is not recommended. Along with following best practices, bonus points for following our [coding guidelines](https://github.com/mindarc/frontend-assessment/wiki/Coding-guidelines). 
+## Project Overview
 
-Exercise 1
----
-Build a responsive page based on the designs.
+This project consists of two exercises aimed at building a responsive and interactive UI using modern web development technologies.
 
-##### Requirements
-1. Match the designs exactly.
-2. Needs to be responsive.
+### Exercise 1: Building the UI with HTML and SASS
 
-##### Designs
-* exercise1-desktop.png
-* exercise1-mobile.png
+In this exercise, you'll create a user interface based on a given design using HTML and SASS (SCSS). The project structure should follow the guidelines provided in the How to Setup Your Project with SASS/SCSS article.
 
-##### Assets
-* Desktop banner - https://via.placeholder.com/1920x650
-* Mobile banner - https://via.placeholder.com/600x600
-* Content images - https://via.placeholder.com/400x300
+#### Steps to Complete:
 
-Exercise 2
----
-Read the `data.json` file and display the data as tabs on desktop and an accordion on mobile.
+##### Set up your project structure according to the guidelines in the article.
 
-##### Requirements
-1. Display data in tabs on desktop.
-2. Display data in an accordion on mobile.
-3. Only 1 accordion/tab should be open at a time.
-4. Open the first accordion/tab on load.
-5. If the open accordion is selected, close it.
+##### Use HTML to structure your content.
 
-###### Bonus points
-* Improve the user experience with meaningful animations/transitions.
-* Design and styling.
-* Explain why the result of `('b' + 'a' + + 'a' + 'a').toLowerCase()` is `banana`.
+##### Apply styles using SASS (SCSS) to match the design specifications.
 
-Submission
----
-We recommend submitting your completed assessment as a forked repository. Please replace README content with instructions and relevant documentation.
+### Exercise 2: Creating Tabs and Accordions with React and Tailwind CSS
+
+In this exercise, you'll use React and Tailwind CSS to implement tabs and accordions based on a given design. The project will be bootstrapped with the Vite React Tailwind Starter template.
+
+#### Steps to Complete:
+
+##### Clone the Vite React Tailwind Starter repository.
+
+##### Install the necessary dependencies by running yarn.
+
+##### Implement the tabs and accordions UI components using React and Tailwind CSS.
+
+##### Read data from a data.json file using the useEffect hook to fetch and display the data.
+
+##### Start the development server with yarn dev to preview your work.
+
+### Getting Started
+
+#### Prerequisites:
+
+##### Node.js installed on your machine
+
+##### Yarn package manager
+
+#### Installation and Setup:
+
+Clone the Repository:
+
+```bash
+git clone <repository-url>
+cd <repository-directory>
+```
+
+Install Dependencies:
+
+```bash
+yarn
+```
+
+Run the Development Server:
+
+```bash
+yarn dev
+```
+
+### Project Structure:
+
+#### HTML and SASS: Follows the setup described in the SASS/SCSS project structure article.
+
+#### React and Tailwind CSS: Based on the Vite React Tailwind starter template.
+
+### Deployment:
+
+#### For production, ensure you build the project using:
+
+```bash
+yarn build
+```
