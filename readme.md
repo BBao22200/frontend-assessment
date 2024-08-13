@@ -8,11 +8,11 @@ In this exercise, you'll create a user interface based on a given design using H
 
 #### Steps to Complete:
 
-##### - Set up your project structure according to the guidelines in the article.
+- Set up your project structure according to the guidelines in the article.
 
-##### - Use HTML to structure your content.
+- Use HTML to structure your content.
 
-##### - Apply styles using SASS (SCSS) to match the design specifications.
+- Apply styles using SASS (SCSS) to match the design specifications.
 
 ### Exercise 2: Creating Tabs and Accordions with React and Tailwind CSS
 
@@ -20,23 +20,23 @@ In this exercise, you'll use React and Tailwind CSS to implement tabs and accord
 
 #### Steps to Complete:
 
-##### - Clone the Vite React Tailwind Starter repository.
+- Clone the Vite React Tailwind Starter repository.
 
-##### - Install the necessary dependencies by running yarn.
+- Install the necessary dependencies by running yarn.
 
-##### - Implement the tabs and accordions UI components using React and Tailwind CSS.
+- Implement the tabs and accordions UI components using React and Tailwind CSS.
 
-##### - Read data from a data.json file using the useEffect hook to fetch and display the data.
+- Read data from a data.json file using the useEffect hook to fetch and display the data.
 
-##### - Start the development server with yarn dev to preview your work.
+- Start the development server with yarn dev to preview your work.
 
 ### Getting Started
 
 #### Prerequisites:
 
-##### Node.js installed on your machine
+- Node.js installed on your machine
 
-##### Yarn package manager
+- Yarn package manager
 
 #### Installation and Setup:
 
@@ -61,13 +61,13 @@ yarn dev
 
 ### Project Structure:
 
-#### HTML and SASS: Follows the setup described in the SASS/SCSS project structure article.
+- HTML and SASS: Follows the setup described in the SASS/SCSS project structure article.
 
-#### React and Tailwind CSS: Based on the Vite React Tailwind starter template.
+- React and Tailwind CSS: Based on the Vite React Tailwind starter template.
 
 ### Deployment:
 
-#### For production, ensure you build the project using:
+- For production, ensure you build the project using:
 
 ```bash
 yarn build
