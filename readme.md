@@ -4,31 +4,31 @@ This project consists of two exercises aimed at building a responsive and intera
 
 ### Exercise 1: Building the UI with HTML and SASS
 
-In this exercise, you'll create a user interface based on a given design using HTML and SASS (SCSS). The project structure should follow the guidelines provided in the How to Setup Your Project with SASS/SCSS article.
+In this exercise, you'll create a user interface based on a given design using HTML and SASS (SCSS). The project structure should follow the guidelines provided in the How to Setup Your Project with SASS/SCSS article (link: https://dev.to/darnocer/how-to-setup-your-project-with-sass-scss-ip4).
 
 #### Steps to Complete:
 
-##### Set up your project structure according to the guidelines in the article.
+##### - Set up your project structure according to the guidelines in the article.
 
-##### Use HTML to structure your content.
+##### - Use HTML to structure your content.
 
-##### Apply styles using SASS (SCSS) to match the design specifications.
+##### - Apply styles using SASS (SCSS) to match the design specifications.
 
 ### Exercise 2: Creating Tabs and Accordions with React and Tailwind CSS
 
-In this exercise, you'll use React and Tailwind CSS to implement tabs and accordions based on a given design. The project will be bootstrapped with the Vite React Tailwind Starter template.
+In this exercise, you'll use React and Tailwind CSS to implement tabs and accordions based on a given design. The project will be bootstrapped with the Vite React Tailwind Starter template (link: https://github.com/theodorusclarence/vite-react-tailwind-starter).
 
 #### Steps to Complete:
 
-##### Clone the Vite React Tailwind Starter repository.
+##### - Clone the Vite React Tailwind Starter repository.
 
-##### Install the necessary dependencies by running yarn.
+##### - Install the necessary dependencies by running yarn.
 
-##### Implement the tabs and accordions UI components using React and Tailwind CSS.
+##### - Implement the tabs and accordions UI components using React and Tailwind CSS.
 
-##### Read data from a data.json file using the useEffect hook to fetch and display the data.
+##### - Read data from a data.json file using the useEffect hook to fetch and display the data.
 
-##### Start the development server with yarn dev to preview your work.
+##### - Start the development server with yarn dev to preview your work.
 
 ### Getting Started
 
